@@ -1,4 +1,5 @@
-.mermaid svg {
+.mermaid svg,
+.mermaid-img img {
 	display: block;
 	margin: auto;
 }
